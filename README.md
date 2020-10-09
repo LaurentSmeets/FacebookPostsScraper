@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 Constructor params:
 
-| param         | description |
+| params         | description |
 | ------------- | ----------- |
 | email | Your email to access Facebook |
 | password | Your password to access Facebook |
